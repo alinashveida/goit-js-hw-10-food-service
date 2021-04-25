@@ -1,4 +1,3 @@
-import './sass/main.scss';
 import cardTemplate from './templates/card.hbs';
 import dishes from './js/menu.json';
 
