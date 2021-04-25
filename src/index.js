@@ -14,7 +14,7 @@ const markUp = createMarkUp(dishes);
 
 cardsList.insertAdjacentHTML('beforeend', markUp);
 
-//--------------------------Тема------
+//--------------------------Тема------------
 
 const Theme = {
     LIGHT: 'light-theme',
